@@ -8,9 +8,9 @@ from selenium.common.exceptions import NoSuchElementException, ElementClickInter
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 #binary = FirefoxBinary('path/to/binary')
-login = 'wert14_94@mail.ru'
-password = '14940981Qwe'
-vacancy = ' Data engineer'
+login = ''
+password = ''
+vacancy = ' '
 letter ='....'
 url = 'https://vladimir.hh.ru/'
 driver = webdriver.Firefox()
