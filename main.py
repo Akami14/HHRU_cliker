@@ -2,7 +2,7 @@
 from selenium import webdriver
 from hhru_func import loggin, vacancy_cliks
 
-login = 'wert14_94@mail.ru' # type the mail
+login = '' # type the mail
 
 url_2 = 'https://vladimir.hh.ru/search/vacancy?from=resumelist&education=not_required_or_not_specified&resume=2b455687ff0b4d5c470039ed1f43475a586f6c&search_field=name&search_field=description&search_field=company_name&work_format=REMOTE&enable_snippets=false&forceFiltersSaving=true'
 driver = webdriver.Firefox()
