@@ -4,7 +4,7 @@ from hhru_func_2 import loggin_and_click
 
 
 if __name__ == "__main__":
-    login = '9851149815' # type the mail
+    login = '' # type the mail
 
     url_2 = 'https://vladimir.hh.ru/search/vacancy?from=resumelist&education=not_required_or_not_specified&resume=2b455687ff0b4d5c470039ed1f43475a586f6c&search_field=name&search_field=description&search_field=company_name&work_format=REMOTE&enable_snippets=false&forceFiltersSaving=true'
     driver = webdriver.Firefox()
